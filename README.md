@@ -3,7 +3,7 @@ Welcome ! You just found the repository of resource materials for the
 <b> Software Development (CSE-433) </b> course offered by MIU at Spring 2020 trimester. <br/>
 
 ## Course Outline
-<a href="./soft_dev_assignment.pdf">Instructions for Project</a> <a href="./soft_dev_report_submission.pdf">Project Report Guidelines</a> 
+<a href="./soft_dev_assignment.pdf">Instructions for Project</a> <br/> <a href="./soft_dev_report_submission.pdf">Project Report Guidelines</a> 
 
 ## Project Dashboard
 Status: Closed <br/>
@@ -12,7 +12,7 @@ Close:  12 April 2021; 11:55 PM</br>
 Note: The project submission is closed. The dashboard will not update for any new submission </br></br>
 
 
-|  **Serial**  |  **Team**   |  **Project** | **IDs** |  **Proposal** | **In-class** | **Report** | **Comments** |
+|  **Serial**  |  **Team**   |  **Project** | **IDs** |  **Proposal** | **class Presentation** | **Report** | **Comments** |
 | ------------ |----------- |--------- |---------- |---------- |---------- |---------- |---------- |
 | 1 | Unique Developer | MIU Messenger | 1846CSE00711  |  timely | 3 | late | OK |
 | 2 | Free Thinker | The Book Lounge | 1846CSE00684 | timely | 3 | timely | OK |
@@ -24,14 +24,14 @@ Note: The project submission is closed. The dashboard will not update for any ne
 | 8 | Brotherhood Developer | Invoice System | 1846CSE00678, 1846CSE00677 | timely | 1 | timely | Per. required, Git |
 | 9 | Team-1453| 1453_Blog | 1846CSE00694 | timely | 0 | timely | OK |
 | 10 | Team-07 | Unit converter | 1846CSE00656, 1846CSE00699 | late | 0 | late | OK |
-| 11 | Team1971 | Quiz-Game | 1846CSE00670 | late | 0 | Not Found | In complete |
+| 11 | Team1971 | Quiz-Game | 1846CSE00670 | late | 0 | Not Found | <b>In complete</b> |
 | 12 | Aid | Personal Assistant Mithu | 1846CSE00661, 1846CSE00675 | late | 1 | late | OK |
-| 13 | Neo-23 | Quick Save | 1846CSE00651 | late | 1 | Not Found | In complete | 
+| 13 | Neo-23 | Quick Save | 1846CSE00651 | late | 1 | Not Found | <b>In complete</b> | 
 | 14 | Warrior | C.Vaccination | 1846CSE00676, 1846CSE00663 | late | 0 | timely | Per. required, Git |
-| 15 | HungryCoder | chat-box app| 1743CSE00621, 1846CSE00690 | late | 0 | Not Found | In complete, Copy |
+| 15 | HungryCoder | chat-box app| 1743CSE00621, 1846CSE00690 | late | 0 | Not Found | <b>In complete</b>, Copy |
 | 16 | Not Found | Simple Survey | 1846CSE00648, 1846CSE00653 | late | 0 | late | Copy |
-| 17 | Amar Collection | Point of Sale App | 1846CSE00705 | Not Found  | 0 | timely | Rejected, Copy, Template |
-| 18 | Not Found | Calculator | 1846CSE00686 | Not Found | 0 | timely | Rejected |
+| 17 | Amar Collection | Point of Sale App | 1846CSE00705 | Not Found  | 0 | timely | <b>Rejected</b>, Copy, Template |
+| 18 | Not Found | Calculator | 1846CSE00686 | Not Found | 0 | timely | <b>Rejected</b> |
 
 
 <br/>
