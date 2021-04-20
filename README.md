@@ -1,6 +1,6 @@
 ## Course Description
 Welcome ! You just found the repository of resource materials for the
-<b> Software Development (CSE-433) </b> course offered by MIU at Spring 2020 trimester. <br/>
+<b> Software Development (CSE-433) </b> course offered by MIU at Spring 2021 trimester. <br/>
 
 ## Course Outline
 <a href="./soft_dev_assignment.pdf">Instructions for Project</a> <br/> <a href="./soft_dev_report_submission.pdf">Project Report Guidelines</a> 
